@@ -1,0 +1,31 @@
+<!-- -------------------activity------------------- -->
+<div id="activity">
+    <div class="container">
+        <h1 class="sub-title">My Activities</h1>
+        <div class="activity-list">
+            <div>
+                <h2>EXERCISE FTUI</h2>
+                <p>EXERCISE FTUI stands for Experiment of Electro Technical Engineering and Science.
+                    It is an organization in electrical and computer engineering 
+                    based on projects related to the field of studies.</p>
+                <a href="#">Learn More?</a>
+            </div>
+            <div>
+                <h2>Faculty of Engineering Lecturer Assistant</h2>
+                <p>A Faculty of Engineering Lecturer Assistant, 
+                    often referred to as a ASMAWA (Asisten Mahasiswa), 
+                    is a vital academic support role within a university's faculty of engineering, 
+                    especially for handling basic science classes.</p>
+                <a href="#">Learn More?</a>
+            </div>
+            <div>
+                <h2>Electrical Engineering Department Lecturer Assistant</h2>
+                <p>A new program held by the Electrical Engineering Department in Faculty of Engineering,
+                    University of Indonesia for 4th semester and above students from Department of Electrical
+                    Engineering to be a lecturer assistant for basic science and applied science only in
+                    Electrical Engineering field of studies.</p>
+                <a href="#">Learn More?</a>
+            </div>
+        </div>
+    </div>
+</div>
